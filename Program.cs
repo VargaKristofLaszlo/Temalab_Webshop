@@ -38,6 +38,10 @@ namespace Webshop
                   Console.WriteLine("Delete the blog");
                   db.Remove(blog);
                   db.SaveChanges();*/
+
+
+
+                Console.WriteLine("Hello there");
             }
 
 

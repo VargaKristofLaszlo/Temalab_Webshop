@@ -39,7 +39,7 @@ namespace Webshop
                   db.Remove(blog);
                   db.SaveChanges();*/
             }
-
+//reeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 
         }

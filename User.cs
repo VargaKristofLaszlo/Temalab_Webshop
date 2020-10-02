@@ -11,6 +11,7 @@ namespace Webshop
         public string Username { get; set; }
         public string Password { get; set; }
         public string Email_addres { get; set; }
+        public string Permission {get;set;}
 
         //Egy User-nek lehet több review-ja is termékekről.        
         public List<Review> Reviews { get; set; }
